@@ -1,4 +1,5 @@
-# Sisyphus's Boulder
+Sisyphus's Boulder
+==============
 > 生命不息，奋斗不止
 
 ## SvenChen
@@ -9,8 +10,6 @@
 ## 学术 / academic
 
 > [test](academic/example.md)
->
->
 
 ## 技术 / technical
 
