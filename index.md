@@ -1,9 +1,8 @@
 ---
-layout: post
 title: Sisyphus's Boulder
 ---
 
-> 生命不息，奋斗不止
+> 生命不息，奋斗不止。
 
 ## SvenChen
 - Independent Research
