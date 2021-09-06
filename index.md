@@ -1,4 +1,6 @@
-# Sisyphus's Boulder
+--- 
+title: Sisyphus's Boulder
+---
 
 > 生命不息，奋斗不止。
 
@@ -9,7 +11,7 @@
 
 ## 学术 / academic
 
-> [test](academic/example.md)
+> [test](2021/09/06/example.html)
 
 ## 技术 / technical
 
