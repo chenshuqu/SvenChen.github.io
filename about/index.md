@@ -1,37 +1,32 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: 关于我 / About Me 
+tags: [about]
+date: 2021-9-9
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center>大家好，我是Sven，欢迎来到我博客。 </center>
+<center>我是一名持续保持技能更新和学习状态的嵌入式软件工程师。 </center>
+<center>目前主要专注机器智能以及人机交互SOC这两个领域。 </center>
+<center>希望你能用我的博客找到你觉得有趣或者有用的东西. </center>
+<center>期待得到你们的反馈和交流. </center>
 
-## Preview
+<br>
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+<center>Hi guys, I am Sven. </center>
+<center>An embedded engineer who still keeping learning and practicing a lot. </center>
+<center>Recently, I mainly focus on robotics and HMI soc. </center>
+<center>Hopefully, you can find some useful or helpful stuff from my blog. </center>
+<center>Looking forward to your feedback and message. </center>
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## 定位 / Positioning
+ - 独立研究者 / Independent Research
+ - 全栈嵌入式软件工程师 / Full Stack Embedded Engineer
+ - 机器人爱好者 / Robot Enthusiasts
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## 经历 / Resume
+ - 2010~2014:   Automation science and technology bachelor at SCUT.
+ - 2014~2016:   DesaySV Embedded Engineer.
+ - 2016~2019:   Goodix Senior Software Engineer.
+ - 2019~2021:   Dorabot Lead Embedded Engineer.
